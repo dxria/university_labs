@@ -1,0 +1,6 @@
+------------------------------------------
+Faculty name: Faculty of Psycology
+Number of Departments: 5
+Number of Specializations: 6
+Total amount of Students: 2000
+

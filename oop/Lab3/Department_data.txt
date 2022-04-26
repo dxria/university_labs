@@ -1,0 +1,7 @@
+------------------------------------------
+Department name: Departament of History
+Number of Professors: 40
+Number of Students: 500
+Number of Disciplines: 60
+Total amount of Hours of Disciplines: 7000
+
